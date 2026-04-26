@@ -1,0 +1,103 @@
+﻿All Causes of Death Rates  Table for Wisconsin by County
+"All Races (includes Hispanic/Latino), Both Sexes, All Ages, 2019-2023"
+Sorted by Rate
+
+County,FIPS,"Age-Adjusted Death Rate(†) - deaths per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval",Average Annual Count,Recent Trend,"Recent 5-Year Trend (‡) in Death Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"Wisconsin",55000,794.6 ,791.6, 797.5,59192,stable,-0.5 ,-1.5, 0.5
+"United States",00000,805.6 ,805.2, 806,3214616,falling,-1.0 ,-2.7, -0.2
+"Menominee County",55078,1661.7 ,1479.3, 1860,67,rising,13.3 ,6.4, 21.4
+"Milwaukee County",55079,936.4 ,927.8, 945.2,9323,stable,-1.0 ,-3.2, 0.6
+"Waupaca County",55135,931.1 ,900.1, 963,733,stable,-2.5 ,-6.9, 1.6
+"Ashland County",55003,922.7 ,863.7, 985,202,stable,-0.1 ,-0.6, 0.4
+"Forest County",55041,922.5 ,848.4, 1002,134,stable,0.4 ,-0.3, 1.1
+"Juneau County",55057,909.4 ,865.4, 955.3,347,rising,1.6 ,0.6, 5.5
+"Green Lake County",55047,906.2 ,855.3, 959.7,261,rising,2.1 ,0.9, 6.3
+"Lincoln County",55069,901 ,860.2, 943.6,404,stable,2.2 ,-2.0, 5.9
+"Dodge County",55027,897.3 ,872.9, 922.3,1074,stable,-1.2 ,-4.3, 2.3
+"Washburn County",55129,886.7 ,833.4, 943.1,244,stable,2.0 ,-1.7, 4.4
+"Kenosha County",55059,884.5 ,865.1, 904.2,1657,rising,0.9 ,0.3, 2.6
+"Racine County",55101,883.1 ,866.1, 900.4,2158,stable,-0.4 ,-3.7, 1.5
+"Marquette County",55077,881 ,826.1, 939.2,225,rising,2.4 ,0.8, 6.8
+"Langlade County",55067,880.7 ,832.7, 931.1,291,rising,5.3 ,0.7, 10.2
+"Rock County",55105,880.6 ,862, 899.6,1768,rising,1.2 ,0.7, 2.2
+"Marinette County",55075,875 ,842.1, 909.1,606,stable,-1.5 ,-5.8, 2.9
+"Monroe County",55081,872.2 ,837.4, 908.1,496,rising,2.5 ,0.5, 6.9
+"Sawyer County",55113,870.3 ,817, 926.5,247,stable,-0.2 ,-0.9, 0.5
+"Douglas County",55031,863.7 ,829.3, 899.3,508,rising,3.5 ,0.4, 7.9
+"Clark County",55019,861.4 ,821.8, 902.5,376,rising,2.3 ,1.1, 6.2
+"Shawano County",55115,847.7 ,813.9, 882.6,510,rising,1.6 ,0.7, 3.9
+"Vilas County",55125,845.7 ,800.7, 893,350,stable,1.0 ,-1.6, 4.4
+"Rusk County",55107,843.2 ,787.4, 902.4,200,rising,1.2 ,0.2, 5.4
+"Florence County",55037,837.6 ,740, 947.1,66,stable,-8.0 ,-16.5, 1.2
+"Jackson County",55053,834.4 ,785.9, 885.3,238,stable,1.0 ,-0.3, 6.2
+"Wood County",55141,832.6 ,808.1, 857.8,956,stable,-0.4 ,-3.6, 3.0
+"Sauk County",55111,822.3 ,795.1, 850.3,727,rising,1.7 ,0.9, 4.0
+"Adams County",55001,814.8 ,768.2, 864,301,stable,-0.1 ,-0.8, 0.6
+"Oneida County",55085,813.1 ,780.1, 847.3,530,stable,0.8 ,-0.3, 4.2
+"Barron County",55005,811.9 ,781.4, 843.4,587,rising,2.3 ,1.0, 4.8
+"Polk County",55095,808.1 ,776.3, 841,528,rising,1.5 ,0.7, 3.8
+"Winnebago County",55139,804.6 ,787.3, 822.2,1708,stable,-0.9 ,-3.3, 1.8
+"Columbia County",55021,799.9 ,771.3, 829.4,619,rising,0.5 ,0.1, 1.9
+"Grant County",55043,797.5 ,767, 828.9,549,stable,1.1 ,-0.4, 5.3
+"Jefferson County",55055,795.7 ,771.1, 820.8,834,rising,1.7 ,0.8, 4.7
+"Vernon County",55123,794.6 ,755.8, 834.9,346,rising,2.1 ,0.3, 7.5
+"Price County",55099,792.3 ,740.8, 847.2,203,stable,-0.3 ,-1.0, 0.3
+"Walworth County",55127,791.2 ,769.5, 813.4,1078,stable,-0.1 ,-0.5, 0.4
+"Sheboygan County",55117,788.6 ,768.6, 809,1245,rising,0.9 ,0.1, 3.6
+"Waushara County",55137,787.8 ,746.9, 830.5,321,rising,1.0 ,0.1, 4.5
+"Brown County",55009,785.6 ,771.2, 800.3,2336,rising,1.4 ,0.9, 2.2
+"Crawford County",55023,783.4 ,734.1, 835.8,209,rising,2.6 ,0.4, 6.5
+"Fond du Lac County",55039,782.7 ,761.8, 804.2,1123,rising,2.9 ,0.9, 6.6
+"Manitowoc County",55071,773.7 ,751, 797,959,rising,0.6 ,0.3, 1.4
+"Portage County",55097,762.8 ,735.9, 790.5,638,rising,1.7 ,0.7, 5.3
+"Oconto County",55083,760.1 ,726.6, 794.9,425,stable,0.1 ,-0.4, 2.0
+"Outagamie County",55087,760.1 ,743.6, 776.8,1668,stable,-1.3 ,-3.4, 1.3
+"Chippewa County",55017,759.4 ,733.4, 786.1,681,rising,0.9 ,0.3, 1.8
+"Green County",55045,756.9 ,722.7, 792.3,392,rising,0.9 ,0.1, 3.6
+"St. Croix County",55109,756.5 ,731.8, 781.7,743,rising,0.9 ,0.3, 2.0
+"La Crosse County",55063,755 ,735, 775.5,1132,rising,0.8 ,0.3, 1.8
+"Iron County",55051,753.1 ,680.4, 833.7,101,stable,-0.2 ,-0.9, 0.5
+"Marathon County",55073,752.8 ,734.8, 771.1,1387,rising,0.9 ,0.3, 3.2
+"Eau Claire County",55035,748.4 ,726.8, 770.4,957,rising,1.0 ,0.2, 3.7
+"Washington County",55131,747.5 ,729.3, 766.1,1346,stable,-0.9 ,-2.5, 0.2
+"Iowa County",55049,746.9 ,702.8, 793.2,228,stable,-0.3 ,-0.8, 0.2
+"Richland County",55103,734.7 ,688.2, 783.9,214,rising,2.1 ,0.9, 5.0
+"Taylor County",55119,729.6 ,684.3, 777.4,211,rising,2.5 ,0.5, 8.6
+"Trempealeau County",55121,711.7 ,675, 750,296,stable,-0.6 ,-1.3, 0.0
+"Dunn County",55033,711.1 ,678.6, 744.8,377,rising,1.0 ,0.3, 3.6
+"Burnett County",55013,709.7 ,661.5, 761.1,214,stable,0.5 ,-0.4, 2.9
+"Pierce County",55093,705.4 ,671.3, 740.9,336,rising,1.4 ,0.3, 5.0
+"Lafayette County",55065,685.2 ,636.9, 736.4,162,stable,-0.3 ,-0.8, 0.1
+"Waukesha County",55133,682.1 ,672.4, 692,3957,stable,-1.7 ,-4.0, 1.0
+"Kewaunee County",55061,679.8 ,638.2, 723.7,214,rising,1.7 ,0.6, 3.8
+"Buffalo County",55011,668.7 ,618, 723,140,stable,-0.4 ,-1.2, 0.4
+"Door County",55029,666.2 ,634, 700.1,380,stable,0.3 ,-0.4, 2.7
+"Bayfield County",55007,657.6 ,609.8, 708.7,180,falling,-1.0 ,-1.7, -0.4
+"Dane County",55025,649.9 ,640.6, 659.3,3822,stable,0.3 ,-0.1, 1.3
+"Calumet County",55015,644.1 ,614.8, 674.4,380,falling,-4.7 ,-10.7, -2.4
+"Ozaukee County",55089,642.7 ,623.4, 662.5,893,stable,-0.5 ,-0.9, 0.0
+"Pepin County",55091,642.4 ,574.4, 717.2,72,stable,-0.8 ,-1.7, 0.0
+
+Suggested Citation:
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 3/20/2026. Available from https://hdpulse.nimhd.nih.gov
+
+Notes:
+Source: Death data provided by the National Vital Statistics System [ https://www.cdc.gov/nchs/nvss/index.htm ]. 
+
+
+Trend
+   Rising when 95% confidence interval of average annual percent change is above 0.
+   Stable when 95% confidence interval of average annual percent change includes 0.
+   Falling when 95% confidence interval of average annual percent change is below 0.
+
+"(†) Death rates (deaths per 100,000 population per year) are age-adjusted to the 2000 US standard population [https://www.seer.cancer.gov/stdpopulations/stdpop.20ages.html] (20 age groups: <1, 1-4, 5-9, ... , 80-84, 85-89, 90+). Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The US Population Data File [https://seer.cancer.gov/popdata/] is used for mortality data. \n"
+State Health Departments [ https://www.usa.gov/state-health ] may provide more current or more local data.
+"(‡) The Average Annual Percent Change (AAPC) is based on the APCs calculated by Joinpoint Regression Program. Due to data availability issues, the time period used in the calculation of the joinpoint regression model may differ for selected counties. \n"
+"For more information about All Causes of Death, see the definitions at http://hdpulse.nimhd.nih.gov/data/cod.html#all."
+Data for United States does not include Puerto Rico.
+
+"Please note that the data comes from different sources. Due to different years ( https://hdpulse.nimhd.nih.gov/data/historicaltrend/differences.html ) of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. "
+
+"Interpret Rankings provides insight into interpreting mortality statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional deaths) has a dramatic effect on the calculated rate."
+"Rural-Urban Continuum Codes (developed by the United States Department of Agriculture (USDA) [ https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx ] ) are used on this website to distinguish which counties are rural and urban; additionally, how much of a state’s population is classified as rural or urban. For more information about using Rural-Urban Continuum Codes, go to the rural urban [ http://hdpulse.nimhd.nih.gov/data/ruralurban.html ] page."
+
